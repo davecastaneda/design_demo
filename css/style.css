@@ -12,7 +12,7 @@ body{
   overflow: hidden;
 }
 
-/* Header **/
+/* Header */
 header{
   background: #35424a;
   color: #ffffff;
@@ -37,4 +37,16 @@ header li{
   float: left;
   display: inline;
   padding: 0 20px 0 20px;
+}
+
+header #branding{
+  float: left;
+}
+
+header #branding h1{
+  margin: 0;
+}
+
+header nav{
+  float: right;
 }
