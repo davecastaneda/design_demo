@@ -134,6 +134,12 @@ width: 30%;
 margin-top 10px;
 }
 
+/* Main-col */
+article#main-col{
+  float: left;
+  width: 65%;
+}
+
 /* footer */
 footer{
   padding: 20px;
