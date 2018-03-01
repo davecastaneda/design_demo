@@ -190,5 +190,10 @@ footer{
     margin-top: 40px;
   }
 
-  #newsletter
+  #newsletter button{
+    display: block;
+    width: 100%;
+  }
+
+  #newsletter form input[type="email"]
 }
